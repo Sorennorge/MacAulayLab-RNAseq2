@@ -1,6 +1,5 @@
 # MacAulayLab-RNAseq2
 
-This work have been done in collaboration with the MacAulay Lab.
 The work and scripts are done by the MacAulay Lab.
 All programs used are free and open-source.
 Feel free to copy and use code, but make sure to cite: XXXXXXXX (coming soon)

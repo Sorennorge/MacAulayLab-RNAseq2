@@ -92,7 +92,8 @@ Information gathered from https://www.genome.jp/kegg - Entries from ‘EC 4.6.1.
 ## Cross species analysis ##
 
 The cross species analysis was created with different count tables only including protein coding genes from the gtf file in step 1 & 2.
-
+Requirements: \
+For 10.3: Biomart of Rnor6.0 with Attributes - "Gene stable ID,Human gene stable ID,Human homology type,"Human orthology confidence [0 low, 1 high]",Mouse gene stable ID,Mouse homology type,"Mouse orthology confidence [0 low, 1 high]".
 ### Create count tables with gene information ###
 
 9.1_Cross_species_RSEM_to_count_tables

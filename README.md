@@ -63,14 +63,16 @@ Information gathered from https://www.genenames.org - ‘receptor tyrosine kinas
 
 ### Kinases ###
 We filtered kinases to only include protein kinases. 
-
+Requirements: \
+Information gathered from https://www.genome.jp/kegg - Entries from ‘EC 2.7.10.2’ (non-specific protein-tyrosine kinase), ‘EC 2.7.12’ (Dual-specificity kinases) with the two sub-categories, and ‘EC 2.7.11’ (Protein-serine/threonine kinases) with the 33 sub-categories. \
 8.3.1_Generate_Kinases_category \
 8.3.2_Generate_Kinases_filtration_list \
 8.3.3_Generate_Protein_Kinases 
 
 ### Phosphatases ###
 We filtered Phosphatases to only include protein Phosphatases. 
-
+Requirements: \
+Information gathered from https://www.genome.jp/kegg - Entries from EC 3.1.3 (Phosphoric Monoester Hydrolases) with 108 subcategories. \
 8.4.1_Generate_Phosphatases_category \
 8.4.2_Generate_Phosphatases_filtration_list \
 8.4.3_Generate_Protein_Phosphatases \
@@ -82,7 +84,8 @@ We filtered Phosphatases to only include protein Phosphatases.
 8.5_Generate_PDEs_category 
 
 ### Cyclases ###
-
+Requirements: \
+Information gathered from https://www.genome.jp/kegg - Entries from ‘EC 4.6.1.1’ (adenylate cyclase) and ‘EC 4.6.1.2’ (guanylate cyclase) \
 8.6_Generate_Cyclases_category
 
 ## Cross species analysis ##

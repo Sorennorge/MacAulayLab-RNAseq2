@@ -21,7 +21,7 @@ The analysis uses RNA STAR for mapping and RSEM for quantification.
 
 ## Create count tables with gene information ##
 Requirements: \
-Biomart of Rnor6.0 with Attributes: Gene stable ID & Gene name \
+Biomart of Rnor6.0 with Attributes: Gene stable ID & Gene name 
 
 3.1.RSEM_to_count_tables.py
 
@@ -49,7 +49,7 @@ Targets_and_families list file from https://www.guidetopharmacology.org \
 7.2_Generate_Membrane_Channel_category
 
 ## Generate other categories of interest ##
-We created categories of possible influencers of CSF production.\
+We created categories of possible influencers of CSF production.
 
 ### G protein-coupled receptors ###
 
@@ -60,14 +60,14 @@ We created categories of possible influencers of CSF production.\
 8.2_Generate_RTKs_category
 
 ### Kinases ###
-We filtered kinases to only include protein kinases. \
+We filtered kinases to only include protein kinases. 
 
 8.3.1_Generate_Kinases_category \
 8.3.2_Generate_Kinases_filtration_list \
 8.3.3_Generate_Protein_Kinases 
 
 ### Phosphatases ###
-We filtered Phosphatases to only include protein Phosphatases. \
+We filtered Phosphatases to only include protein Phosphatases. 
 
 8.4.1_Generate_Phosphatases_category \
 8.4.2_Generate_Phosphatases_filtration_list \
@@ -85,7 +85,7 @@ We filtered Phosphatases to only include protein Phosphatases. \
 
 ## Cross species analysis ##
 
-The cross species analysis was created with different count tables excluding mitochondrial RNA from the gtf file in step 1 & 2.\
+The cross species analysis was created with different count tables excluding mitochondrial RNA from the gtf file in step 1 & 2.
 
 ### Create count tables with gene information ###
 

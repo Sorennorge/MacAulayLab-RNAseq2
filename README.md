@@ -52,12 +52,13 @@ Targets_and_families list file from https://www.guidetopharmacology.org \
 We created categories of possible influencers of CSF production.
 
 ### G protein-coupled receptors ###
-Requirements:\
+Requirements: \
 Targets_and_families list file from https://www.guidetopharmacology.org \
 8.1_Generate_GPCRs_category
 
 ### Receptor tyrosine kinases ###
-
+Requirements: \
+Information gathered from https://www.genenames.org - ‘receptor tyrosine kinase’ including sub group ‘ephrin receptors’ and ‘ErbB family’. \
 8.2_Generate_RTKs_category
 
 ### Kinases ###

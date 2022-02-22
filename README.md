@@ -33,7 +33,8 @@ Biomart of Rnor6.0 with Attributes: Gene stable ID & Gene name\
 4.2_Categories_water_and_ion_channels
 
 ### Filtration for plasma membrane location - gather infomation ###
-
+Requirements:\
+Targets_and_families list file from https://www.guidetopharmacology.org \
 5.1_Generate_Filtration_list_for_Transporters_and_pumps
 5.2_Generate_Filtration_list_for_water_and_ion_channels
 

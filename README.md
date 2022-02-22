@@ -85,7 +85,7 @@ Information gathered from https://www.genome.jp/kegg - Entries from EC 3.1.3 (Ph
 
 ### Cyclases ###
 Requirements: \
-Information gathered from https://www.genome.jp/kegg - Entries from ‘EC 4.6.1.1’ (adenylate cyclase) and ‘EC 4.6.1.2’ (guanylate cyclase) \
+Information gathered from https://www.genome.jp/kegg - Entries from ‘EC 4.6.1.1’ (adenylate cyclase) and ‘EC 4.6.1.2’ (guanylate cyclase). \
 8.6_Generate_Cyclases_category
 
 ## Cross species analysis ##

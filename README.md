@@ -110,11 +110,11 @@ The cross species analysis was created with different count tables excluding mit
 12.4_Table4_Channel_table_ranking
 
 ## Comparison of choroid plexus (Male) vs FACS / Female / proximal tubules ##
-### choroid plexus (Male) vs FACS ###
+### Choroid plexus (Male) vs FACS ###
 13.1_Comparison_analysis_Male_vs_Facs
-### choroid plexus (Male) vs Female ###
+### Choroid plexus (Male) vs Female ###
 13.2_Comparison_analysis_Male_vs_Female
-### choroid plexus (Male) vs Proximal tubules ###
+### Choroid plexus (Male) vs Proximal tubules ###
 13.3_Comparison_analysis_Male_vs_PT
 
 ## Network analysis ##

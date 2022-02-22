@@ -91,7 +91,7 @@ Information gathered from https://www.genome.jp/kegg - Entries from ‘EC 4.6.1.
 
 ## Cross species analysis ##
 
-The cross species analysis was created with different count tables excluding mitochondrial RNA from the gtf file in step 1 & 2.
+The cross species analysis was created with different count tables only including protein coding genes from the gtf file in step 1 & 2.
 
 ### Create count tables with gene information ###
 
